@@ -1,0 +1,65 @@
+==UI UPDATES==
+XX Homepage UI XX
+Learnmore UI
+XX create new navbar XX
+XX change search bar to only in the campaigns page XX
+
+
+==Admin Page==
+Rework UI
+
+XX Admin Role Authenticator ( for the smart contract yes but not for the page) XX
+XX Test Approve milestone function XX
+XX Test Refund function - TEST with 1 wallet ( WORKS ), Test with 2 or more wallets ( HAVENT TEST )  || MOSTLY DONE || XX
+
+==Create Campaign Page==
+Rework UI
+XX ADD CATEGORY XX
+XX Validate Milestone Allocation Feature must be 100 XX
+
+XX Connect wallet only can use create campaign XX
+XX DATE PICKER AUTOMATICALLY CLOSES FORM IF DATE IS EARLY  XX
+
+==Campaign Details== 
+XX Show top 5 recent donators in with cycle XX ( havent done UI )
+XX Delete Campaign XX
+XX Date Should change to ended after past deadline (TESTING) SHOWS NAN XX
+Rework UI
+
+
+
+XX edit campaign WORKING XX
+
+
+==VOTING SYSTEM== * (EXTRA FUNCTIONS)
+XX Open voting XX
+XX Implement voting function for users to vote on completion milestone (almost working left to test fund release) XX
+Allow campaign owners to update progress in their campaign details page
+
+XX Create function that will show the campaigns that user has donated to  XX
+XX Create UI to display in the Profile page for campaigns that they have donated to XX
+
+==Profile Page==
+
+
+==Campaigns Page==
+XX Search function for campaign XX
+XX DELETED CAMPAIGN SHOWS UP HERE XX
+
+
+
+
+Known Bugs===
+XX Funding campaign when is not filled in automatically closes the page XX
+XX Donators not showing up in the campaign XX
+
+If a milestone is rejected u can reopen it but same user cant vote on it again
+No loading for editor
+Milestone Shows up again after approval finished should remove
+Voting finishes after 1 vote (Eg; 3 people donate = 1.5 votes required to receive funds)
+Category not showing up in Profile page ( getAllCampaigns doesnt seem to return category )
+
+XX Refund need to delete campaign XX
+
+XX  Donator cant vote (Reason: Must have donated) XX
+Edit campaign not redirecting
