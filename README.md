@@ -3,7 +3,9 @@
 **FRAMEWORKS & TECHNOLOGIES USED**
 
 Frontend: NextJS, TailwindCSS, IPFS
+
 Backend: Solidity, ExpressJS
+
 Database: MongoDB
 
 
